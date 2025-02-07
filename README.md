@@ -33,11 +33,3 @@ Ce projet est une application de gestion des utilisateurs avec un backend en Exp
 3. Démarrez le serveur de développement frontend :
    ```bash
    npm start
-
-
-
-
-
-
-
-
