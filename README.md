@@ -1,4 +1,4 @@
-# User Management System1
+# User Management System
 
 ## Overview
 
